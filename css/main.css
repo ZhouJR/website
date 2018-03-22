@@ -1,0 +1,15 @@
+* {
+    margin: 0px 0px;
+    padding: 0px 0px;
+}
+
+.header .panel-heading {
+    /*border: 1px solid red;*/
+
+    line-height: 35px;
+    margin: 5px;
+    padding 0px;
+    float: left;
+    background: #FF0011;
+    border-radius: 5px;
+}
